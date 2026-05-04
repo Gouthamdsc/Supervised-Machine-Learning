@@ -1,0 +1,4 @@
+Model,Performance,Interpretability,Robustness,Cost
+Linear,3,5,3,5
+RandomForest,4,3,4,3
+XGBoost,5,2,4,2
